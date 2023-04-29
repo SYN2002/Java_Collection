@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class ArrayListLearn {
+public class LearnArrayList {
     public static void main(String[] args) {
         ArrayList<Integer> studentRoll=new ArrayList<>();
         studentRoll.add(1);
