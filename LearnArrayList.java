@@ -20,5 +20,7 @@ public class LearnArrayList {
         studentRoll.set(3, 100);
         System.out.println(studentRoll);
         System.out.println(studentRoll.contains(100));
+        ArrayList<Integer> list=new ArrayList<>(studentRoll);
+        System.out.println(list);
     }
 }
